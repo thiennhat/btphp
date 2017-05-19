@@ -1,0 +1,56 @@
+.clsDatePicker {
+z-index: 10000;
+}
+.btned{
+    margin-left: -5px;
+}
+.logoad1{
+    width: 60px;   
+    margin-top: -15px;
+    margin-right: -20px;
+}
+.logoad1thongtin{
+    width: 50px;
+}
+.login{
+    width: 400px;
+    
+    margin-left: 100%;
+    
+}
+.index{
+    background-image:url(../image/bg1.jpg);
+    background-repeat: no-repeat;
+    
+    background-size: 100%;
+    background-position-y: 0px;
+    
+}
+.logoad{
+    
+    width: 100px;
+    margin-left: 135px;
+    margin-top: -10px;
+}
+.loginthongbao{
+    margin-top: -10px;
+}
+.padloginform{
+    padding: 20px 20px 20px 20px;
+}
+.pademail{
+    padding: 10px 10px 10px 10px;
+   
+    
+}
+.padtextac{
+    padding: 20px 0px 0px 10px;
+}
+.footerlogin{
+    background: #ffffff;
+}
+.toplogin{
+    background: white;
+    height: 40px;
+}
+
